@@ -1,0 +1,20 @@
+{
+  "advertisement": [
+    {
+      "id": 1,
+      "year": 2019,
+      "month": "December",
+      "weekday": "Wednesday",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 2,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Thursday",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    }
+  ]
+}
