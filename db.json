@@ -3,18 +3,740 @@
     {
       "id": 1,
       "year": 2019,
-      "month": "December",
-      "weekday": "Wednesday",
-      "county": "skåne län",
-      "city": "malmö"
+      "month": "March",
+      "weekday": "Thursday",
+      "time": "22,6",
+      "county": "Örebro län",
+      "city": "Örebro"
     },
     {
       "id": 2,
       "year": 2019,
       "month": "May",
       "weekday": "Thursday",
-      "county": "västra götalands län",
-      "city": "göteborg"
-    }
+      "time": "6,12",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 3,
+      "year": 2019,
+      "month": "July",
+      "weekday": "Tuesday",
+      "time": "14,17",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 4,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Thursday",
+      "time": "6,12",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 5,
+      "year": 2019,
+      "month": "March",
+      "weekday": "Thursday",
+      "time": "6,12",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 6,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 7,
+      "year": 2019,
+      "month": "July",
+      "weekday": "Thursday",
+      "time": "6,12",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 8,
+      "year": 2019,
+      "month": "November",
+      "weekday": "Thursday",
+      "time": "22,6",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 9,
+      "year": 2019,
+      "month": "June",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 10,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Sunday",
+      "time": "22,6",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 11,
+      "year": 2019,
+      "month": "January",
+      "weekday": "Thursday",
+      "time": "14,17",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 12,
+      "year": 2019,
+      "month": "June",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 13,
+      "year": 2019,
+      "month": "March",
+      "weekday": "Tuesday",
+      "time": "12,14",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 14,
+      "year": 2019,
+      "month": "December",
+      "weekday": "Monday",
+      "time": "22,6",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 15,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Wednesday",
+      "time": "12,14",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 16,
+      "year": 2019,
+      "month": "March",
+      "weekday": "Tuesday",
+      "time": "22,6",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 17,
+      "year": 2019,
+      "month": "January",
+      "weekday": "Monday",
+      "time": "6,12",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 18,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 19,
+      "year": 2019,
+      "month": "July",
+      "weekday": "Thursday",
+      "time": "14,17",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 20,
+      "year": 2019,
+      "month": "March",
+      "weekday": "Wednesday",
+      "time": "12,14",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 21,
+      "year": 2019,
+      "month": "December",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 22,
+      "year": 2019,
+      "month": "September",
+      "weekday": "Thursday",
+      "time": "",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 23,
+      "year": 2019,
+      "month": "October",
+      "weekday": "Wednesday",
+      "time": "22,6",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 24,
+      "year": 2019,
+      "month": "November",
+      "weekday": "Wednesday",
+      "time": "14,17",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 25,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Sunday",
+      "time": "22,6",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 26,
+      "year": 2019,
+      "month": "January",
+      "weekday": "Thursday",
+      "time": "17,22",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 27,
+      "year": 2019,
+      "month": "October",
+      "weekday": "Thursday",
+      "time": "6,12",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 28,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Friday",
+      "time": "[22,6)",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 29,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Tuesday",
+      "time": "[22,6)",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 30,
+      "year": 2019,
+      "month": "January",
+      "weekday": "Sunday",
+      "time": "6,12",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 31,
+      "year": 2019,
+      "month": "March",
+      "weekday": "Wednesday",
+      "time": "6,12",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 32,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Monday",
+      "time": "6,12",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 33,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 34,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Wednesday",
+      "time": "12,14",
+      "county": "Örebro län",
+      "city": "Örebro"
+    },
+    {
+      "id": 35,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Thursday",
+      "time": "6,12",
+      "county": "Örebro län",
+      "city": "Gävle"
+    },
+    {
+      "id": 36,
+      "year": 2019,
+      "month": "September",
+      "weekday": "Wednesday",
+      "time": "22,6",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 37,
+      "year": 2019,
+      "month": "December",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 38,
+      "year": 2019,
+      "month": "September",
+      "weekday": "Wednesday",
+      "time": "6,12",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 39,
+      "year": 2019,
+      "month": "October",
+      "weekday": "Tuesday",
+      "time": "12,14",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 40,
+      "year": 2019,
+      "month": "November",
+      "weekday": "Tuesday",
+      "time": "22,6",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 41,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Tuesday",
+      "time": "12,14",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 42,
+      "year": 2019,
+      "month": "January",
+      "weekday": "Friday",
+      "time": "6,12",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 43,
+      "year": 2019,
+      "month": "October",
+      "weekday": "Thursday",
+      "time": "14,17",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 44,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Thursday",
+      "time": "14,17",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 45,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Friday",
+      "time": "14,17",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 46,
+      "year": 2019,
+      "month": "January",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 47,
+      "year": 2019,
+      "month": "March",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 48,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Wednesday",
+      "time": "17,22",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 49,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Wednesday",
+      "time": "17,22",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 50,
+      "year": 2019,
+      "month": "",
+      "weekday": "Tuesday",
+      "time": "14,17",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 51,
+      "year": 2019,
+      "month": "September",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "Gävleborgs län",
+      "city": "Gävle"
+    },
+    {
+      "id": 52,
+      "year": 2019,
+      "month": "September",
+      "weekday": "Monday",
+      "time": "14,17",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 53,
+      "year": 2019,
+      "month": "March",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 54,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Wednesday",
+      "time": "6,12",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 55,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 56,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Monday",
+      "time": "22,6",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 57,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 58,
+      "year": 2019,
+      "month": "June",
+      "weekday": "Monday",
+      "time": "6,12",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 59,
+      "year": 2019,
+      "month": "October",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 60,
+      "year": 2019,
+      "month": "November",
+      "weekday": "Saturday",
+      "time": "22,6",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 61,
+      "year": 2019,
+      "month": "August",
+      "weekday": "Monday",
+      "time": "6,12",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 62,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 63,
+      "year": 2019,
+      "month": "October",
+      "weekday": "Thursday",
+      "time": "22,6",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 64,
+      "year": 2019,
+      "month": "January",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 65,
+      "year": 2019,
+      "month": "August",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 66,
+      "year": 2019,
+      "month": "March",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 67,
+      "year": 2019,
+      "month": "January",
+      "weekday": "Thursday",
+      "time": "17,22",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 68,
+      "year": 2019,
+      "month": "January",
+      "weekday": "Friday",
+      "time": "12,14",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 69,
+      "year": 2019,
+      "month": "December",
+      "weekday": "Thursday",
+      "time": "17,22",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 70,
+      "year": 2019,
+      "month": "October",
+      "weekday": "Monday",
+      "time": "17,22",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 71,
+      "year": 2019,
+      "month": "September",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 72,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 73,
+      "year": 2019,
+      "month": "March",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 74,
+      "year": 2019,
+      "month": "January",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 75,
+      "year": 2019,
+      "month": "June",
+      "weekday": "Tuesday",
+      "time": "22,6",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 76,
+      "year": 2019,
+      "month": "May",
+      "weekday": "Wednesday",
+      "time": "12,14",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 77,
+      "year": 2019,
+      "month": "April",
+      "weekday": "Monday",
+      "time": "22,6",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 78,
+      "year": 2019,
+      "month": "June",
+      "weekday": "Monday",
+      "time": "22,6",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 79,
+      "year": 2019,
+      "month": "April",
+      "weekday": "Friday",
+      "time": "17,22",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 80,
+      "year": 2019,
+      "month": "March",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 81,
+      "year": 2019,
+      "month": "August",
+      "weekday": "Wednesday",
+      "time": "6,12",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
+    {
+      "id": 82,
+      "year": 2019,
+      "month": "September",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    },
   ]
 }
