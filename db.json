@@ -737,6 +737,22 @@
       "time": "22,6",
       "county": "Västra götalands län",
       "city": "Göteborg"
-    },
+    }, {
+      "id": 82,
+      "year": 2017,
+      "month": "January",
+      "weekday": "Tuesday",
+      "time": "22,6",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    }, {
+      "id": 82,
+      "year": 2017,
+      "month": "August",
+      "weekday": "Wednesday",
+      "time": "14,17",
+      "county": "Västra götalands län",
+      "city": "Göteborg"
+    }
   ]
 }
