@@ -737,7 +737,8 @@
       "time": "22,6",
       "county": "jönköpings län",
       "city": "jönköping"
-    }, {
+    },
+    {
       "id": 83,
       "year": 2019,
       "month": "January",
@@ -745,7 +746,8 @@
       "time": "22,6",
       "county": "stockholms län",
       "city": "stockholm"
-    }, {
+    },
+    {
       "id": 84,
       "year": 2019,
       "month": "August",
@@ -1068,7 +1070,8 @@
       "time": "22,6",
       "county": "västra götalands län",
       "city": "göteborg"
-    }, {
+    },
+    {
       "id": 120,
       "year": 2019,
       "month": "January",
@@ -1076,9 +1079,1099 @@
       "time": "22,6",
       "county": "östergötlands län",
       "city": "norrköping"
-    }, {
+    },
+    {
       "id": 121,
       "year": 2019,
+      "month": "August",
+      "weekday": "Wednesday",
+      "time": "14,17",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 122,
+      "year": 2017,
+      "month": "March",
+      "weekday": "Thursday",
+      "time": "22,6",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 123,
+      "year": 2017,
+      "month": "May",
+      "weekday": "Thursday",
+      "time": "6,12",
+      "county": "örebro län",
+      "city": "örebro"
+    },
+    {
+      "id": 124,
+      "year": 2017,
+      "month": "July",
+      "weekday": "Tuesday",
+      "time": "14,17",
+      "county": "hallands län",
+      "city": "halmstad"
+    },
+    {
+      "id": 125,
+      "year": 2017,
+      "month": "May",
+      "weekday": "Thursday",
+      "time": "6,12",
+      "county": "norrbottens län",
+      "city": "boden"
+    },
+    {
+      "id": 126,
+      "year": 2021,
+      "month": "March",
+      "weekday": "Thursday",
+      "time": "6,12",
+      "county": "hallands län",
+      "city": "falkenberg"
+    },
+    {
+      "id": 127,
+      "year": 2021,
+      "month": "February",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "jönköpings län",
+      "city": "eksjö"
+    },
+    {
+      "id": 128,
+      "year": 2020,
+      "month": "July",
+      "weekday": "Thursday",
+      "time": "6,12",
+      "county": "dalarnas län",
+      "city": "borlänge"
+    },
+    {
+      "id": 129,
+      "year": 2020,
+      "month": "November",
+      "weekday": "Thursday",
+      "time": "22,6",
+      "county": "örebro län",
+      "city": "örebro"
+    },
+    {
+      "id": 130,
+      "year": 2017,
+      "month": "June",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "norrbottens län",
+      "city": "kiruna"
+    },
+    {
+      "id": 131,
+      "year": 2017,
+      "month": "February",
+      "weekday": "Sunday",
+      "time": "22,6",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 132,
+      "year": 2020,
+      "month": "January",
+      "weekday": "Thursday",
+      "time": "14,17",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 133,
+      "year": 2020,
+      "month": "June",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "hallands län",
+      "city": "halmstad"
+    },
+    {
+      "id": 134,
+      "year": 2017,
+      "month": "March",
+      "weekday": "Tuesday",
+      "time": "12,14",
+      "county": "örebro län",
+      "city": "örebro"
+    },
+    {
+      "id": 135,
+      "year": 2017,
+      "month": "December",
+      "weekday": "Monday",
+      "time": "22,6",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 136,
+      "year": 2021,
+      "month": "May",
+      "weekday": "Wednesday",
+      "time": "12,14",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 137,
+      "year": 2021,
+      "month": "March",
+      "weekday": "Tuesday",
+      "time": "22,6",
+      "county": "skåne län",
+      "city": "lund"
+    },
+    {
+      "id": 138,
+      "year": 2020,
+      "month": "January",
+      "weekday": "Monday",
+      "time": "6,12",
+      "county": "södermanlands län",
+      "city": "nyköping"
+    },
+    {
+      "id": 139,
+      "year": 2020,
+      "month": "February",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 140,
+      "year": 2017,
+      "month": "July",
+      "weekday": "Thursday",
+      "time": "14,17",
+      "county": "jönköpings län",
+      "city": "jönköping"
+    },
+    {
+      "id": 141,
+      "year": 2017,
+      "month": "March",
+      "weekday": "Wednesday",
+      "time": "12,14",
+      "county": "östergötlands län",
+      "city": "norrköping"
+    },
+    {
+      "id": 142,
+      "year": 2017,
+      "month": "December",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "norrbottens län",
+      "city": "piteå"
+    },
+    {
+      "id": 143,
+      "year": 2021,
+      "month": "September",
+      "weekday": "Thursday",
+      "time": "14,17",
+      "county": "skåne län",
+      "city": "ystad"
+    },
+    {
+      "id": 144,
+      "year": 2020,
+      "month": "October",
+      "weekday": "Wednesday",
+      "time": "22,6",
+      "county": "örebro län",
+      "city": "örebro"
+    },
+    {
+      "id": 145,
+      "year": 2017,
+      "month": "November",
+      "weekday": "Wednesday",
+      "time": "14,17",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 146,
+      "year": 2021,
+      "month": "February",
+      "weekday": "Sunday",
+      "time": "22,6",
+      "county": "skåne län",
+      "city": "helsingborg"
+    },
+    {
+      "id": 147,
+      "year": 2020,
+      "month": "January",
+      "weekday": "Thursday",
+      "time": "17,22",
+      "county": "östergötlands län",
+      "city": "mjölby"
+    },
+    {
+      "id": 148,
+      "year": 2017,
+      "month": "October",
+      "weekday": "Thursday",
+      "time": "6,12",
+      "county": "örebro län",
+      "city": "örebro"
+    },
+    {
+      "id": 149,
+      "year": 2017,
+      "month": "May",
+      "weekday": "Friday",
+      "time": "[22,6)",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 150,
+      "year": 2021,
+      "month": "May",
+      "weekday": "Tuesday",
+      "time": "[22,6)",
+      "county": "örebro län",
+      "city": "örebro"
+    },
+    {
+      "id": 151,
+      "year": 2020,
+      "month": "January",
+      "weekday": "Sunday",
+      "time": "6,12",
+      "county": "södermanlands län",
+      "city": "katrineholm"
+    },
+    {
+      "id": 152,
+      "year": 2020,
+      "month": "March",
+      "weekday": "Wednesday",
+      "time": "6,12",
+      "county": "östergötlands län",
+      "city": "åtvidaberg"
+    },
+    {
+      "id": 153,
+      "year": 2017,
+      "month": "February",
+      "weekday": "Monday",
+      "time": "6,12",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 154,
+      "year": 2018,
+      "month": "February",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 155,
+      "year": 2018,
+      "month": "May",
+      "weekday": "Wednesday",
+      "time": "12,14",
+      "county": "skåne län",
+      "city": "helsingborg"
+    },
+    {
+      "id": 156,
+      "year": 2018,
+      "month": "May",
+      "weekday": "Thursday",
+      "time": "6,12",
+      "county": "östergötlands län",
+      "city": "motala"
+    },
+    {
+      "id": 157,
+      "year": 2018,
+      "month": "September",
+      "weekday": "Wednesday",
+      "time": "22,6",
+      "county": "gävleborgs län",
+      "city": "gävle"
+    },
+    {
+      "id": 158,
+      "year": 2021,
+      "month": "December",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "hallands län",
+      "city": "varberg"
+    },
+    {
+      "id": 159,
+      "year": 2020,
+      "month": "September",
+      "weekday": "Wednesday",
+      "time": "6,12",
+      "county": "gävleborgs län",
+      "city": "gävle"
+    },
+    {
+      "id": 160,
+      "year": 2021,
+      "month": "October",
+      "weekday": "Tuesday",
+      "time": "12,14",
+      "county": "värmlands län",
+      "city": "kristinehamn"
+    },
+    {
+      "id": 161,
+      "year": 2020,
+      "month": "November",
+      "weekday": "Tuesday",
+      "time": "22,6",
+      "county": "gävleborgs län",
+      "city": "gävle"
+    },
+    {
+      "id": 162,
+      "year": 2020,
+      "month": "February",
+      "weekday": "Tuesday",
+      "time": "12,14",
+      "county": "skåne län",
+      "city": "lund"
+    },
+    {
+      "id": 163,
+      "year": 2017,
+      "month": "January",
+      "weekday": "Friday",
+      "time": "6,12",
+      "county": "kalmar län",
+      "city": "kalmar"
+    },
+    {
+      "id": 164,
+      "year": 2017,
+      "month": "October",
+      "weekday": "Thursday",
+      "time": "14,17",
+      "county": "västra götalands län",
+      "city": "härryda"
+    },
+    {
+      "id": 165,
+      "year": 2017,
+      "month": "May",
+      "weekday": "Thursday",
+      "time": "14,17",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 166,
+      "year": 2021,
+      "month": "May",
+      "weekday": "Friday",
+      "time": "14,17",
+      "county": "gävleborgs län",
+      "city": "gävle"
+    },
+    {
+      "id": 167,
+      "year": 2020,
+      "month": "January",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "hallands län",
+      "city": "halmstad"
+    },
+    {
+      "id": 168,
+      "year": 2017,
+      "month": "March",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "hallands län",
+      "city": "falkenberg"
+    },
+    {
+      "id": 169,
+      "year": 2021,
+      "month": "February",
+      "weekday": "Wednesday",
+      "time": "17,22",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 170,
+      "year": 2020,
+      "month": "February",
+      "weekday": "Wednesday",
+      "time": "17,22",
+      "county": "gävleborgs län",
+      "city": "gävle"
+    },
+    {
+      "id": 171,
+      "year": 2017,
+      "month": "",
+      "weekday": "Tuesday",
+      "time": "14,17",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 172,
+      "year": 2021,
+      "month": "September",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 173,
+      "year": 2021,
+      "month": "September",
+      "weekday": "Monday",
+      "time": "14,17",
+      "county": "östergötlands län",
+      "city": "norrköping"
+    },
+    {
+      "id": 174,
+      "year": 2020,
+      "month": "March",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "värmlands län",
+      "city": "kristinehamn"
+    },
+    {
+      "id": 175,
+      "year": 2020,
+      "month": "February",
+      "weekday": "Wednesday",
+      "time": "6,12",
+      "county": "östergötlands län",
+      "city": "åtvidaberg"
+    },
+    {
+      "id": 176,
+      "year": 2017,
+      "month": "February",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "östergötlands län",
+      "city": "motala"
+    },
+    {
+      "id": 177,
+      "year": 2017,
+      "month": "May",
+      "weekday": "Monday",
+      "time": "22,6",
+      "county": "södermanlands län",
+      "city": "katrineholm"
+    },
+    {
+      "id": 178,
+      "year": 2018,
+      "month": "February",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "västernorrlands län",
+      "city": "sundsvall"
+    },
+    {
+      "id": 179,
+      "year": 2018,
+      "month": "June",
+      "weekday": "Monday",
+      "time": "6,12",
+      "county": "östergötlands län",
+      "city": "linköping"
+    },
+    {
+      "id": 180,
+      "year": 2021,
+      "month": "October",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "dalarnas län",
+      "city": "borlänge"
+    },
+    {
+      "id": 181,
+      "year": 2020,
+      "month": "November",
+      "weekday": "Saturday",
+      "time": "22,6",
+      "county": "jönköpings län",
+      "city": "jönköping"
+    },
+    {
+      "id": 182,
+      "year": 2017,
+      "month": "August",
+      "weekday": "Monday",
+      "time": "6,12",
+      "county": "jämtlands län",
+      "city": "östersund"
+    },
+    {
+      "id": 183,
+      "year": 2017,
+      "month": "May",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "värmlands län",
+      "city": "karlstad"
+    },
+    {
+      "id": 184,
+      "year": 2017,
+      "month": "October",
+      "weekday": "Thursday",
+      "time": "22,6",
+      "county": "uppsala län",
+      "city": "enköping"
+    },
+    {
+      "id": 185,
+      "year": 2021,
+      "month": "January",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "hallands län",
+      "city": "falkenberg"
+    },
+    {
+      "id": 186,
+      "year": 2021,
+      "month": "August",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "värmlands län",
+      "city": "karlstad"
+    },
+    {
+      "id": 187,
+      "year": 2020,
+      "month": "March",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "uppsala län",
+      "city": "enköping"
+    },
+    {
+      "id": 188,
+      "year": 2020,
+      "month": "January",
+      "weekday": "Thursday",
+      "time": "17,22",
+      "county": "västernorrlands län",
+      "city": "sundsvall"
+    },
+    {
+      "id": 189,
+      "year": 2017,
+      "month": "January",
+      "weekday": "Friday",
+      "time": "12,14",
+      "county": "södermanlands län",
+      "city": "katrineholm"
+    },
+    {
+      "id": 190,
+      "year": 2021,
+      "month": "December",
+      "weekday": "Thursday",
+      "time": "17,22",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 191,
+      "year": 2021,
+      "month": "October",
+      "weekday": "Monday",
+      "time": "17,22",
+      "county": "östergötlands län",
+      "city": "motala"
+    },
+    {
+      "id": 192,
+      "year": 2020,
+      "month": "September",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "dalarnas län",
+      "city": "borlänge"
+    },
+    {
+      "id": 193,
+      "year": 2017,
+      "month": "February",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "värmlands län",
+      "city": "karlstad"
+    },
+    {
+      "id": 194,
+      "year": 2017,
+      "month": "March",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "jönköpings län",
+      "city": "jönköping"
+    },
+    {
+      "id": 195,
+      "year": 2021,
+      "month": "January",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 196,
+      "year": 2020,
+      "month": "June",
+      "weekday": "Tuesday",
+      "time": "22,6",
+      "county": "hallands län",
+      "city": "halmstad"
+    },
+    {
+      "id": 197,
+      "year": 2020,
+      "month": "May",
+      "weekday": "Wednesday",
+      "time": "12,14",
+      "county": "gävleborgs län",
+      "city": "gävle"
+    },
+    {
+      "id": 198,
+      "year": 2021,
+      "month": "April",
+      "weekday": "Monday",
+      "time": "22,6",
+      "county": "jönköpings län",
+      "city": "jönköping"
+    },
+    {
+      "id": 199,
+      "year": 2017,
+      "month": "June",
+      "weekday": "Monday",
+      "time": "22,6",
+      "county": "västernorrlands län",
+      "city": "sundsvall"
+    },
+    {
+      "id": 200,
+      "year": 2017,
+      "month": "April",
+      "weekday": "Friday",
+      "time": "17,22",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 201,
+      "year": 2019,
+      "month": "March",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "gävleborgs län",
+      "city": "gävle"
+    },
+    {
+      "id": 202,
+      "year": 2020,
+      "month": "August",
+      "weekday": "Wednesday",
+      "time": "6,12",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 203,
+      "year": 2021,
+      "month": "September",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "jönköpings län",
+      "city": "jönköping"
+    },
+    {
+      "id": 204,
+      "year": 2021,
+      "month": "January",
+      "weekday": "Tuesday",
+      "time": "22,6",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 205,
+      "year": 2017,
+      "month": "August",
+      "weekday": "Wednesday",
+      "time": "14,17",
+      "county": "hallands län",
+      "city": "halmstad"
+    },
+    {
+      "id": 206,
+      "year": 2017,
+      "month": "February",
+      "weekday": "Wednesday",
+      "time": "17,22",
+      "county": "gävleborgs län",
+      "city": "gävle"
+    },
+    {
+      "id": 207,
+      "year": 2021,
+      "month": "February",
+      "weekday": "Wednesday",
+      "time": "17,22",
+      "county": "jämtlands län",
+      "city": "östersund"
+    },
+    {
+      "id": 208,
+      "year": 2020,
+      "month": "March",
+      "weekday": "Tuesday",
+      "time": "14,17",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 209,
+      "year": 2020,
+      "month": "September",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "gävleborgs län",
+      "city": "gävle"
+    },
+    {
+      "id": 210,
+      "year": 2017,
+      "month": "March",
+      "weekday": "Monday",
+      "time": "14,17",
+      "county": "östergötlands län",
+      "city": "åtvidaberg"
+    },
+    {
+      "id": 211,
+      "year": 2017,
+      "month": "March",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 212,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Wednesday",
+      "time": "6,12",
+      "county": "östergötlands län",
+      "city": "mjölby"
+    },
+    {
+      "id": 213,
+      "year": 2019,
+      "month": "February",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 214,
+      "year": 2021,
+      "month": "May",
+      "weekday": "Monday",
+      "time": "22,6",
+      "county": "norrbottens län",
+      "city": "kiruna"
+    },
+    {
+      "id": 215,
+      "year": 2020,
+      "month": "February",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "norrbottens län",
+      "city": "boden"
+    },
+    {
+      "id": 216,
+      "year": 2017,
+      "month": "June",
+      "weekday": "Monday",
+      "time": "6,12",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 217,
+      "year": 2021,
+      "month": "October",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "skåne län",
+      "city": "malmö"
+    },
+    {
+      "id": 218,
+      "year": 2017,
+      "month": "November",
+      "weekday": "Saturday",
+      "time": "22,6",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 219,
+      "year": 2017,
+      "month": "August",
+      "weekday": "Monday",
+      "time": "6,12",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 220,
+      "year": 2020,
+      "month": "May",
+      "weekday": "Thursday",
+      "time": "12,14",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 221,
+      "year": 2020,
+      "month": "October",
+      "weekday": "Thursday",
+      "time": "22,6",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 222,
+      "year": 2021,
+      "month": "January",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 223,
+      "year": 2020,
+      "month": "August",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "skåne län",
+      "city": "helsingborg"
+    },
+    {
+      "id": 224,
+      "year": 2017,
+      "month": "March",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 225,
+      "year": 2021,
+      "month": "January",
+      "weekday": "Thursday",
+      "time": "17,22",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 226,
+      "year": 2021,
+      "month": "January",
+      "weekday": "Friday",
+      "time": "12,14",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 227,
+      "year": 2020,
+      "month": "December",
+      "weekday": "Thursday",
+      "time": "17,22",
+      "county": "skåne län",
+      "city": "ystad"
+    },
+    {
+      "id": 228,
+      "year": 2017,
+      "month": "October",
+      "weekday": "Monday",
+      "time": "17,22",
+      "county": "östergötlands län",
+      "city": "linköping"
+    },
+    {
+      "id": 229,
+      "year": 2017,
+      "month": "September",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "skåne län",
+      "city": "lund"
+    },
+    {
+      "id": 230,
+      "year": 2017,
+      "month": "February",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 231,
+      "year": 2021,
+      "month": "March",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 232,
+      "year": 2021,
+      "month": "January",
+      "weekday": "Monday",
+      "time": "12,14",
+      "county": "hallands län",
+      "city": "falkenberg"
+    },
+    {
+      "id": 233,
+      "year": 2020,
+      "month": "June",
+      "weekday": "Tuesday",
+      "time": "22,6",
+      "county": "kalmar län",
+      "city": "kalmar"
+    },
+    {
+      "id": 234,
+      "year": 2020,
+      "month": "May",
+      "weekday": "Wednesday",
+      "time": "12,14",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 235,
+      "year": 2017,
+      "month": "April",
+      "weekday": "Monday",
+      "time": "22,6",
+      "county": "jönköpings län",
+      "city": "eksjö"
+    },
+    {
+      "id": 236,
+      "year": 2017,
+      "month": "June",
+      "weekday": "Monday",
+      "time": "22,6",
+      "county": "västra götalands län",
+      "city": "härryda"
+    },
+    {
+      "id": 237,
+      "year": 2021,
+      "month": "April",
+      "weekday": "Friday",
+      "time": "17,22",
+      "county": "stockholms län",
+      "city": "stockholm"
+    },
+    {
+      "id": 238,
+      "year": 2021,
+      "month": "March",
+      "weekday": "Tuesday",
+      "time": "6,12",
+      "county": "norrbottens län",
+      "city": "piteå"
+    },
+    {
+      "id": 239,
+      "year": 2020,
+      "month": "August",
+      "weekday": "Wednesday",
+      "time": "6,12",
+      "county": "skåne län",
+      "city": "lund"
+    },
+    {
+      "id": 240,
+      "year": 2020,
+      "month": "September",
+      "weekday": "Friday",
+      "time": "22,6",
+      "county": "västra götalands län",
+      "city": "göteborg"
+    },
+    {
+      "id": 241,
+      "year": 2017,
+      "month": "January",
+      "weekday": "Tuesday",
+      "time": "22,6",
+      "county": "östergötlands län",
+      "city": "norrköping"
+    },
+    {
+      "id": 242,
+      "year": 2017,
       "month": "August",
       "weekday": "Wednesday",
       "time": "14,17",
